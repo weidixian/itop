@@ -102,14 +102,17 @@
 				</field>
 				<field id="origin" xsi:type="AttributeEnum">
 					<values>
+						<value id="weixin">weixin</value>
+						<value id="qq">qq</value>
+						<value id="dingtalk">dingtalk</value>
 						<value id="mail">mail</value>
 						<value id="phone">phone</value>
 						<value id="portal">portal</value>
 						<value id="monitoring">monitoring</value>
 					</values>
 					<sql>origin</sql>
-					<default_value>phone</default_value>
-					<is_null_allowed>true</is_null_allowed>
+					<default_value>weixin</default_value>
+					<is_null_allowed>false</is_null_allowed>
 					<display_style>list</display_style>
 				</field>
 				<field id="service_id" xsi:type="AttributeExternalKey">
