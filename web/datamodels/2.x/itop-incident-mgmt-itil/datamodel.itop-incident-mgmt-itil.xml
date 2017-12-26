@@ -289,7 +289,7 @@
 						<value id="hardware repair">hardware repair</value>
 						<value id="system update">system update</value>
 						<value id="bug fixed">bug fixed</value>
-                                                <value id="cancel">cancel</value>
+                        <value id="cancel">cancel</value>
 					</values>
 					<sql>resolution_code</sql>
 					<default_value>assistance</default_value>

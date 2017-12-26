@@ -1,4 +1,4 @@
-?php
+<?php
 // Copyright (C) 2010-2014 Combodo SARL
 //
 //   This file is part of iTop.
@@ -116,12 +116,12 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:Incident/Attribute:urgency/Value:4+' => 'low',
 	'Class:Incident/Attribute:origin' => 'Origin',
 	'Class:Incident/Attribute:origin+' => '',
-        'Class:Incident/Attribute:origin/Value:weixin' => 'weixin',
-        'Class:Incident/Attribute:origin/Value:weixin+' => 'weixin',
-        'Class:Incident/Attribute:origin/Value:qq' => 'QQ',
-        'Class:Incident/Attribute:origin/Value:qq+' => 'QQ',
-        'Class:Incident/Attribute:origin/Value:dingtalk' => 'dingtalk',
-        'Class:Incident/Attribute:origin/Value:dingtalk+' => 'dingtalk',
+    'Class:Incident/Attribute:origin/Value:weixin' => 'weixin',
+    'Class:Incident/Attribute:origin/Value:weixin+' => 'weixin',
+    'Class:Incident/Attribute:origin/Value:qq' => 'QQ',
+    'Class:Incident/Attribute:origin/Value:qq+' => 'QQ',
+    'Class:Incident/Attribute:origin/Value:dingtalk' => 'dingtalk',
+    'Class:Incident/Attribute:origin/Value:dingtalk+' => 'dingtalk',
 	'Class:Incident/Attribute:origin/Value:mail' => 'mail',
 	'Class:Incident/Attribute:origin/Value:mail+' => 'mail',
 	'Class:Incident/Attribute:origin/Value:monitoring' => 'monitoring',
@@ -188,8 +188,8 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:Incident/Attribute:resolution_code/Value:system update+' => 'system update',
 	'Class:Incident/Attribute:resolution_code/Value:training' => 'training',
 	'Class:Incident/Attribute:resolution_code/Value:training+' => 'training',
-        'Class:Incident/Attribute:resolution_code/Value:cancel' => 'cancel',
-        'Class:Incident/Attribute:resolution_code/Value:cancel+' => 'cancel',
+    'Class:Incident/Attribute:resolution_code/Value:cancel' => 'cancel',
+    'Class:Incident/Attribute:resolution_code/Value:cancel+' => 'cancel',
 	'Class:Incident/Attribute:solution' => 'Solution',
 	'Class:Incident/Attribute:solution+' => '',
 	'Class:Incident/Attribute:pending_reason' => 'Pending reason',
