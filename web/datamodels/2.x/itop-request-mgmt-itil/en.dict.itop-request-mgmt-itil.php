@@ -206,6 +206,8 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:UserRequest/Attribute:resolution_code/Value:system update+' => 'system update',
 	'Class:UserRequest/Attribute:resolution_code/Value:training' => 'training',
 	'Class:UserRequest/Attribute:resolution_code/Value:training+' => 'training',
+        'Class:UserRequest/Attribute:resolution_code/Value:cancel' => 'cancel',
+        'Class:UserRequest/Attribute:resolution_code/Value:cancel+' => 'cancel',
 	'Class:UserRequest/Attribute:solution' => 'Solution',
 	'Class:UserRequest/Attribute:solution+' => '',
 	'Class:UserRequest/Attribute:pending_reason' => 'Pending reason',

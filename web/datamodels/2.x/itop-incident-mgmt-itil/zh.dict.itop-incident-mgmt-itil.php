@@ -188,6 +188,8 @@ Dict::Add('ZH CN', 'Chinese', '简体中文', array(
 	'Class:Incident/Attribute:resolution_code/Value:system update+' => '系统更新',
 	'Class:Incident/Attribute:resolution_code/Value:training' => '培训',
 	'Class:Incident/Attribute:resolution_code/Value:training+' => '培训',
+        'Class:Incident/Attribute:resolution_code/Value:cancel' => '无效作废',
+        'Class:Incident/Attribute:resolution_code/Value:cancel+' => '无效作废',
 	'Class:Incident/Attribute:solution' => '解决方案',
 	'Class:Incident/Attribute:solution+' => '',
 	'Class:Incident/Attribute:pending_reason' => '待定的原因',

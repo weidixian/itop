@@ -188,6 +188,8 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:Incident/Attribute:resolution_code/Value:system update+' => 'system update',
 	'Class:Incident/Attribute:resolution_code/Value:training' => 'training',
 	'Class:Incident/Attribute:resolution_code/Value:training+' => 'training',
+        'Class:Incident/Attribute:resolution_code/Value:cancel' => 'cancel',
+        'Class:Incident/Attribute:resolution_code/Value:cancel+' => 'cancel',
 	'Class:Incident/Attribute:solution' => 'Solution',
 	'Class:Incident/Attribute:solution+' => '',
 	'Class:Incident/Attribute:pending_reason' => 'Pending reason',
