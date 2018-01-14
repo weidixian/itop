@@ -130,6 +130,8 @@ Dict::Add('ZH CN', 'Chinese', '简体中文', array(
 	'Class:Incident/Attribute:origin/Value:phone+' => '电话',
 	'Class:Incident/Attribute:origin/Value:portal' => 'iTop门户',
 	'Class:Incident/Attribute:origin/Value:portal+' => 'iTop门户',
+	'Class:Incident/Attribute:origin/Value:OA' => 'OA',
+	'Class:Incident/Attribute:origin/Value:OA+' => 'OA',
 	'Class:Incident/Attribute:service_id' => '服务',
 	'Class:Incident/Attribute:service_id+' => '',
 	'Class:Incident/Attribute:service_name' => '服务名称',

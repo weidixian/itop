@@ -150,6 +150,8 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:UserRequest/Attribute:origin/Value:phone+' => 'phone',
 	'Class:UserRequest/Attribute:origin/Value:portal' => 'portal',
 	'Class:UserRequest/Attribute:origin/Value:portal+' => 'portal',
+	'Class:UserRequest/Attribute:origin/Value:OA' => 'OA',
+	'Class:UserRequest/Attribute:origin/Value:OA+' => 'OA',
 	'Class:UserRequest/Attribute:approver_id' => 'Approver',
 	'Class:UserRequest/Attribute:approver_id+' => '',
 	'Class:UserRequest/Attribute:approver_email' => 'Approver Email',

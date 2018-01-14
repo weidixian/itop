@@ -144,6 +144,8 @@ Dict::Add('ZH CN', 'Chinese', '简体中文', array(
 	'Class:UserRequest/Attribute:origin/Value:phone+' => '电话',
 	'Class:UserRequest/Attribute:origin/Value:portal' => 'iTop门户',
 	'Class:UserRequest/Attribute:origin/Value:portal+' => 'iTop门户',
+	'Class:UserRequest/Attribute:origin/Value:OA' => 'OA',
+	'Class:UserRequest/Attribute:origin/Value:OA+' => 'OA',
 	'Class:UserRequest/Attribute:approver_id' => '批准人',
 	'Class:UserRequest/Attribute:approver_id+' => '',
 	'Class:UserRequest/Attribute:approver_email' => '邮箱',

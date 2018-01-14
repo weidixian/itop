@@ -117,6 +117,7 @@
             <value id="qq">qq</value>
             <value id="dingtalk">dingtalk</value>
             <value id="mail">mail</value>
+            <value id="OA">OA</value>
             <value id="phone">phone</value>
             <value id="portal">portal</value>
             <value id="monitoring">monitoring</value>

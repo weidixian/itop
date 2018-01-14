@@ -116,6 +116,7 @@
 						<value id="weixin">weixin</value>
 						<value id="qq">qq</value>
 						<value id="dingtalk">dingtalk</value>
+						<value id="OA">OA</value>
 						<value id="mail">mail</value>
 						<value id="phone">phone</value>
 						<value id="portal">portal</value>
